@@ -1,5 +1,7 @@
 # ADDMQSA
-## This is the replication package for the study: "Replication Package for the study: Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners". It contains the high-quality figures of the four decision models and our study dataset. In the following, we briefly describe the folder and file.
+## This is the replication package for the study: "Replication Package for the study: Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners"
+
+It contains the high-quality figures of the four decision models and our study dataset. In the following, we briefly describe the folder and file.
 
 **Decision Models**: This folder contains the high-quality figures of the four decision models, namely, the decision model for I) structural abstraction, ii) communications, iii) integration and optimization, and iv) data processing.
 
