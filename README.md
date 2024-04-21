@@ -13,7 +13,7 @@ We proposed a set of decision models for selecting patterns and strategies in fo
 
 <p align="center">
   <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
-    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="200" height="200">
+    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="200" height="400">
   </a>
 </p>
 
