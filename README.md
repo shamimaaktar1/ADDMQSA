@@ -113,33 +113,39 @@ The decision flow is represented using the Inclusive, Exclusive, and Parallel ga
 In our study, we conducted a survey of quantum software practitioners and aimed to refine and evaluate our decision models. We conducted a descriptive survey following the guidelines proposed by Kitchenham and Pfleeger. Our survey questionnaire was conducted using Google Forms.
 
 
-### Phase 2: Enabling Collaborative Architecting
+### Phase 2: Decision Models
 
 <p>
  The three tasks of architectural analysis, synthesis, and evalution provide the basis for collaborative architecting. 
 </p>
   
-#### Architectural Analysis
+#### Decision Model for Structural Abstraction
 
 <p>
  Architectural analysis is managed by the architecture story provided to ChatGPT for articulating the Architecturally Significant Requirements (ASRs) via automatically produced and proposed requirements (by ChatGPT), the manual definition of the requirements (by the architect), or a continual conversation between ChatGPT and the architect to revise (add, delete, or update) the requirements.
 </p>
 
   
-#### Architectural Synthesis
+#### Decision Model for Communications
 
 <p>
  The ASRs are combined in architectural synthesis to produce a model or representation of the architecture that may serve as a reference point and help to visualize the structural (de-)composition and runtime possibilities for the program. Due to a variety of reasons, the architectural model in this study was created using UML class and component diagrams.
 </p>
 
-#### Architectural Evaluation
+#### Decision Model for Integration and Optimization
+
+<p>
+ Using scenarios from the architectural story, architectural evaluation compares the synthesized architecture against ASRs. In order to oversee ChatGPT's  evaluation of the architecture, we applied the Software Architecture Analysis Method (SAAM).
+</p>
+
+#### Decision Model for Data Processing
 
 <p>
  Using scenarios from the architectural story, architectural evaluation compares the synthesized architecture against ASRs. In order to oversee ChatGPT's  evaluation of the architecture, we applied the Software Architecture Analysis Method (SAAM).
 </p>
 
 
-### Phase 3: Conducting the Empirical Validations
+### Phase 3: Evaluation of Decision Models
 
 <p>
   Empirical validations of collaborative architecting are conducted as a continuation of this study, completing the first two phases and proposing further research.
