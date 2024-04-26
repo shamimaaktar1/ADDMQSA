@@ -1,16 +1,3 @@
-# ADDMQSA
-## This is the replication package for the study: "Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners"
-
-It contains the high-quality figures of the four decision models and our study dataset. In the following, we briefly describe the folder and file.
-
-**Decision Models**: This folder contains the high-quality figures of the four decision models, namely, the decision model for I) structural abstraction, ii) communications, iii) integration and optimization, and iv) data processing.
-
-**Dataset**: This file contains the information about i) selected GitHub project, ii) selected stack exchange sites, iii) Selected GitHub Issue, iv) Selected Stack Exchange Posts, v) raw data of GitHub issues, vi) raw data of stack exchange posts, vii) pattern and strategy impact.
-
-
-We proposed a set of decision models for selecting patterns and strategies in four areas of quantum software systems design: structural abstraction, communication, integration and optimization, and data processing. These decision models are proposed based on the knowledge collected from analyzing quantum software development discussions in GitHub issues and Stack Exchange posts. These models will help practitioners choose suitable patterns and strategies to address various design challenges in quantum software systems.
-
-
 <p align="center">
     <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="250" height="400">
 </p>
@@ -116,7 +103,7 @@ In our study, we conducted a survey of quantum software practitioners and aimed 
 ### Phase 2: Decision Models
 
 <p>
- The three tasks of architectural analysis, synthesis, and evalution provide the basis for collaborative architecting. 
+We proposed a set of decision models for selecting patterns and strategies in four areas of quantum software systems design: structural abstraction, communication, integration and optimization, and data processing. These decision models are proposed based on the knowledge collected from analyzing quantum software development discussions in GitHub issues and Stack Exchange posts. These models will help practitioners choose suitable patterns and strategies to address various design challenges in quantum software systems.
 </p>
   
 #### Decision Model for Structural Abstraction
