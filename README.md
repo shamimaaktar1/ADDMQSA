@@ -90,7 +90,30 @@ The research method is described below and represented in the picture below:
 
 
 #### Identifying Quantum Patterns and Strategies
+
+<p>
+The required patterns, strategies, quality attributes, and impact of patterns on quality attributes for creating decision models are collected data from the two sources (e.g., GitHub1 and
+Stack Exchange sites2) inspired by the guidelines for selecting empirical methods for software engineering research. The following are used to extract the relevant issues and posts from both
+GitHub and Stack Exchange sites.
+</p>
+
+
 #### Modeling Decision Models
+
+<p>
+The decision flow is represented using the Inclusive, Exclusive, and Parallel gateways from the Business Process Model and Notation (BPMN). Each area of quantum software architecture design is depicted using a grey box. A circle marks the commencement of a decision process. Inclusive gateways initiate multiple outgoing paths in a decision process, while Exclusive gateways activate a sin-
+gle outgoing path. Conversely, Parallel gateways facilitate several concurrent outgoing paths in the decision process. Rounded rectangles denote the patterns and strategies associated with a
+quantum software architecture design area. A bidirectional arrow indicates a “complements” relationship between two patterns or strategies. An octagon and a dashed arrow symbolize constraints
+for each pattern or strategy. The positive and negative influences of each pattern or strategy on the quality attributes are signified by plus (+) and minus (-) signs, respectively. 
+</p>
+<br>
+<br>
+
+<p align="center">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="650" height="600">
+</p>
+
+
 #### Evaluating Decision Models
 
 
