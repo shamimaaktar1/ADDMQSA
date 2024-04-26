@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="200" height="250">
+    <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="180" height="250">
 </p>
 
 <h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h3>
