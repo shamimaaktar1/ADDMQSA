@@ -2,10 +2,10 @@
     <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/4cf274b1-0c26-4867-9475-c1eb5a3973a2" alt="chatGPT logo" width="250" height="400">
 </p>
 
-<h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners</h3>
+<h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Software Systems</h3>
 
 <p align="left">
-  This is the replication package for the paper: "Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners", including the dataset, figures,  scripts, and so on (see the description below).
+  This is the replication package for the paper: "Decision Models for Selecting Patterns and Strategies in Quantum Software Systems", including the dataset, figures,  scripts, and so on (see the description below).
   <br>
 
   
