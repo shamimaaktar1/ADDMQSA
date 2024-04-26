@@ -35,6 +35,11 @@ We proposed a set of decision models for selecting patterns and strategies in fo
 4. `Architecture Evaluation.pdf` provides a set of scenarios for SAAM-based evaluation, including prioritized scenarios that are specifically tailored for the CampusBike application. It also includes a comprehensive set of quality attributes that can be used to evaluate the architecture of the CampusBike application.
 
 5. `Architectural Synthesis.pdf` outlines the non-functional requirements related to maintaining a green campus and provides PlantUML scripts for components and class diagrams. It also includes implementation scripts for various design patterns, as well as graphical representations of these patterns.
+
+6. `Dataset.xlsx` contains the information about i) selected GitHub projects, ii) selected Stack Exchange sites, iii) selected GitHub issues, iv) Selected Stack Exchange posts, v) raw data of GitHub issues, vi) raw data of stack exchange posts, vii) pattern and strategy impact.
+7. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for I) structural abstraction, ii) communications, iii) integration and optimization,
+
+
   
 ## Demo Video 
 
@@ -57,18 +62,23 @@ To watch the video, please click on the picture below:
 
 This research paper is divided into three main phases.
 
-- [Phase 1: Developing the Architecture Story](#developing-the-architecture-story)
-- [Phase 2: Enabling Collaborative Architecting](#enabling-collaborative-architecting)
-  - [Architectural Analysis](#architectural-analysis)
-  - [Architectural Synthesis](#architectural-synthesis)
-  - [Architectural Evaluation](#architectural-evaluation)
-- [Phase 3: Conducting the Empirical Validations](#conducting-the-empirical-validations)
+- [Phase 1: Research Design](#developing-the-architecture-story)
+  - [Identifying Quantum Patterns and Strategies](#architectural-analysis)
+  - [Modeling Decision Models](#architectural-synthesis)
+  - [Evaluating Decision Models](#architectural-evaluation)
+  
+- [Phase 2: Decision Models](#enabling-collaborative-architecting)
+  - [Decision Model for Structural Abstraction](#architectural-analysis)
+  - [Decision Model for Communications](#architectural-synthesis)
+  - [Decision Model for Integration and Optimization](#architectural-evaluation)
+  - [Decision Model for Data Processing](#architectural-evaluation)
+- [Phase 3: Evaluation of Decision Models](#conducting-the-empirical-validations)
 
 
 ### Phase 1: Developing the Architecture Story
 
 <p>
- This phase describes the software architecture story, which is generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
+ This phase describes the software architecture story, generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
 </p>
 
 
