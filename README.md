@@ -84,7 +84,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/5b35f386-a32b-422f-911c-03b773a12a6d" alt="Research Process"  width="600" height="800">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/5b35f386-a32b-422f-911c-03b773a12a6d" alt="Research Process"  width="500" height="600">
 </p>
 
 
