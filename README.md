@@ -1,5 +1,5 @@
 # ADDMQSA
-## This is the replication package for the study: "Replication Package for the study: Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners"
+## This is the replication package for the study: "Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners"
 
 It contains the high-quality figures of the four decision models and our study dataset. In the following, we briefly describe the folder and file.
 
@@ -17,10 +17,10 @@ We proposed a set of decision models for selecting patterns and strategies in fo
   </a>
 </p>
 
-<h2 align="center">Architecting Software-intensive Systems with ChatGPT</h3>
+<h2 align="center">Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners</h3>
 
 <p align="left">
-  This is the replication package for the paper: "Towards Human-Bot Collaborative Software Architecting with ChatGPT", including the data, case study,  scripts and so on (see the description below).
+  This is the replication package for the paper: "Decision Models for Selecting Patterns and Strategies in Quantum Systems and their Evaluation by Practitioners", including the dataset, figures,  scripts, and so on (see the description below).
   <br>
 
   
