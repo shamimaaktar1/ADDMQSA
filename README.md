@@ -110,7 +110,7 @@ for each pattern or strategy. The positive and negative influences of each patte
 <br>
 
 <p align="center">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="400" height="250">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/8c52844e-dc48-46e9-af0b-c31c0d36e40f" alt="Model and Notation (BPMN)"  width="500" height="250">
 </p>
 
 
