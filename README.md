@@ -122,34 +122,34 @@ In our study, we conducted a survey of quantum software practitioners and aimed 
 #### Decision Model for Structural Abstraction
 
 <p>
- Architectural analysis is managed by the architecture story provided to ChatGPT for articulating the Architecturally Significant Requirements (ASRs) via automatically produced and proposed requirements (by ChatGPT), the manual definition of the requirements (by the architect), or a continual conversation between ChatGPT and the architect to revise (add, delete, or update) the requirements.
+The decision model for structural abstraction in quantum software system design is a comprehensive framework that guides practitioners in selecting the most appropriate architecture pattern
+based on the impact for structural abstraction. Each pattern within the model serves a specific purpose and is evaluated based on its positive and negative impacts on these attributes.
 </p>
 
   
 #### Decision Model for Communications
 
 <p>
- The ASRs are combined in architectural synthesis to produce a model or representation of the architecture that may serve as a reference point and help to visualize the structural (de-)composition and runtime possibilities for the program. Due to a variety of reasons, the architectural model in this study was created using UML class and component diagrams.
+The decision model for quantum communication aids practitioners in choosing the right communication pattern for quantum software systems by evaluating the impact of quality attributes. This model is vital for enhancing the interaction between quantum components to ensure eﬀiciency, reliability, and scalability. 
 </p>
 
 #### Decision Model for Integration and Optimization
 
 <p>
- Using scenarios from the architectural story, architectural evaluation compares the synthesized architecture against ASRs. In order to oversee ChatGPT's  evaluation of the architecture, we applied the Software Architecture Analysis Method (SAAM).
+The decision model for quantum integration and optimization aims to streamline the development and enhancement of quantum software systems by guiding the selection of appropriate architectural patterns based on the impact of quality attributes. This model helps practitioners integrate various programming techniques and optimize quantum operations, considering eﬀiciency, extensibility, and testability
 </p>
 
 #### Decision Model for Data Processing
 
 <p>
- Using scenarios from the architectural story, architectural evaluation compares the synthesized architecture against ASRs. In order to oversee ChatGPT's  evaluation of the architecture, we applied the Software Architecture Analysis Method (SAAM).
+The decision model for quantum data processing is crafted to simplify the handling, processing, and testing of quantum data within quantum software systems. It emphasizes Performance, Compatibility, Extensibility, and Flexibility in quantum computations.
 </p>
 
 
 ### Phase 3: Evaluation of Decision Models
 
 <p>
-  Empirical validations of collaborative architecting are conducted as a continuation of this study, completing the first two phases and proposing further research.
-  
+  To evaluate the decision models, we conducted a survey of the response 24 practitioners.
 </p>
 
 
