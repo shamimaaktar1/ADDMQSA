@@ -50,7 +50,7 @@ To watch the video, please click on the picture below:
 
  
 <p align="center">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf" alt="Research Process"  width="500" height="600">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf" alt="Research Process"  width="600" height="600">
 </p>
 
 
