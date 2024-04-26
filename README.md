@@ -52,9 +52,7 @@ To watch the video, please click on the picture below:
 
  
 <p align="center">
-    <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
-   <img src="https://user-images.githubusercontent.com/75358854/222391866-9b18c78f-5db8-4b8e-b450-0ba631ed240e.png" alt="Architecting with ChatGPT" width="500" height="600">
-    </a>
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf" alt="Research Process"  width="500" height="600">
 </p>
 
 
@@ -88,9 +86,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-    <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135628/Research.Process.pdf" width="500" height="600">
-    </a>
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf" alt="Research Process"  width="500" height="600">
 </p>
 
 
