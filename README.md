@@ -15,22 +15,6 @@
 2. `Decision Models` folder contains the high-quality figures of the four decision models, namely, the decision model for I) structural abstraction, ii) communications, iii) integration and optimization, iv) data processing.
 
 
-  
-## Demo Video 
-
-<p>
- In this video, we show how to use ChatGpt to architect software systems. Particularly, we developed the functional requirements, quality attributes, software standards, component diagrams, and class diagrams. In the class diagram, we also used various design patterns.
-</p>
-To watch the video, please click on the picture below:
-<br>
-<br>
-
- 
-<p align="center">
-   <img src="[https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf](https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/bc868529-2ec2-43c0-9a41-362010e9aa7c)" alt="Research Process"  width="700" height="600">
-</p>
-
-
 ## Experiment Replication Steps
 
 This research paper is divided into three main phases.
