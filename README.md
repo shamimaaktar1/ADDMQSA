@@ -58,17 +58,17 @@ To watch the video, please click on the picture below:
 
 This research paper is divided into three main phases.
 
-- [Phase 1: Research Design](#developing-the-architecture-story)
-  - [Identifying Quantum Patterns and Strategies](#architectural-analysis)
-  - [Modeling Decision Models](#architectural-synthesis)
-  - [Evaluating Decision Models](#architectural-evaluation)
+- [Phase 1: Research Design](#research-design)
+  - [Identifying Quantum Patterns and Strategies](#identifying-quantum-patterns-and-strategies)
+  - [Modeling Decision Models](#modeling-decision-models)
+  - [Evaluating Decision Models](#evaluating-decision-models)
   
 - [Phase 2: Decision Models](#enabling-collaborative-architecting)
-  - [Decision Model for Structural Abstraction](#architectural-analysis)
-  - [Decision Model for Communications](#architectural-synthesis)
-  - [Decision Model for Integration and Optimization](#architectural-evaluation)
-  - [Decision Model for Data Processing](#architectural-evaluation)
-- [Phase 3: Evaluation of Decision Models](#conducting-the-empirical-validations)
+  - [Decision Model for Structural Abstraction](#decision-model-for-structural-abstraction)
+  - [Decision Model for Communications](#decision-model-for-communications)
+  - [Decision Model for Integration and Optimization](#decision-model-for-integration-and-optimization)
+  - [Decision Model for Data Processing](#decision-model-for-data-processing)
+- [Phase 3: Evaluation of Decision Models](#evaluation-of-decision-models)
 
 
 ### Phase 1: Research Design
