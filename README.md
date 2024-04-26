@@ -75,11 +75,29 @@ This research paper is divided into three main phases.
 - [Phase 3: Evaluation of Decision Models](#conducting-the-empirical-validations)
 
 
-### Phase 1: Developing the Architecture Story
+### Phase 1: Research Design
 
 <p>
- This phase describes the software architecture story, generated based on an analysis of the software domain and depicts the operational context of the system or group of operationalized scenarios using a software solution. A prompt is used to provide the architectural story into ChatGPT as a prerequisite for collaborative architecture.
+These decision models were explicitly crafted for four critical areas of quantum software design:
+structural abstraction, communication, integration and optimization, and data processing. These
+areas were chosen because they are fundamental to addressing critical design,
+implementation, integration, and data management challenges.
 </p>
+The research method is described below and represented in the picture below:
+<br>
+<br>
+
+<p align="center">
+    <a href="https://www.youtube.com/embed/oYeH4Sgh_YU">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135628/Research.Process.pdf" width="500" height="600">
+    </a>
+</p>
+
+
+
+#### Identifying Quantum Patterns and Strategies
+#### Modeling Decision Models
+#### Evaluating Decision Models
 
 
 ### Phase 2: Enabling Collaborative Architecting
