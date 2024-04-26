@@ -74,10 +74,7 @@ This research paper is divided into three main phases.
 ### Phase 1: Research Design
 
 <p>
-These decision models were explicitly crafted for four critical areas of quantum software design:
-structural abstraction, communication, integration and optimization, and data processing. These
-areas were chosen because they are fundamental to addressing critical design,
-implementation, integration, and data management challenges.
+These decision models were explicitly crafted for four critical areas of quantum software design: structural abstraction, communication, integration and optimization, and data processing. These areas were chosen because they are fundamental to addressing critical design, implementation, integration, and data management challenges.
 </p>
 The research method is described below and represented in the picture below:
 <br>
@@ -101,10 +98,7 @@ GitHub and Stack Exchange sites.
 #### Modeling Decision Models
 
 <p>
-The decision flow is represented using the Inclusive, Exclusive, and Parallel gateways from the Business Process Model and Notation (BPMN). Each area of quantum software architecture design is depicted using a grey box. A circle marks the commencement of a decision process. Inclusive gateways initiate multiple outgoing paths in a decision process, while Exclusive gateways activate a sin-
-gle outgoing path. Conversely, Parallel gateways facilitate several concurrent outgoing paths in the decision process. Rounded rectangles denote the patterns and strategies associated with a
-quantum software architecture design area. A bidirectional arrow indicates a “complements” relationship between two patterns or strategies. An octagon and a dashed arrow symbolize constraints
-for each pattern or strategy. The positive and negative influences of each pattern or strategy on the quality attributes are signified by plus (+) and minus (-) signs, respectively. 
+The decision flow is represented using the Inclusive, Exclusive, and Parallel gateways from the Business Process Model and Notation (BPMN). Each area of quantum software architecture design is depicted using a grey box. A circle marks the commencement of a decision process. Inclusive gateways initiate multiple outgoing paths in a decision process, while Exclusive gateways activate a single outgoing path. Conversely, Parallel gateways facilitate several concurrent outgoing paths in the decision process. Rounded rectangles denote the patterns and strategies associated with a quantum software architecture design area. A bidirectional arrow indicates a “complements” relationship between two patterns or strategies. An octagon and a dashed arrow symbolize constraints for each pattern or strategy. The positive and negative influences of each pattern or strategy on the quality attributes are signified by plus (+) and minus (-) signs, respectively. 
 </p>
 <br>
 <br>
@@ -115,6 +109,8 @@ for each pattern or strategy. The positive and negative influences of each patte
 
 
 #### Evaluating Decision Models
+
+In our study, we conducted a survey of quantum software practitioners and aimed to refine and evaluate our decision models. We conducted a descriptive survey following the guidelines proposed by Kitchenham and Pfleeger. Our survey questionnaire was conducted using Google Forms.
 
 
 ### Phase 2: Enabling Collaborative Architecting
