@@ -50,7 +50,7 @@ To watch the video, please click on the picture below:
 
  
 <p align="center">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf" alt="Research Process"  width="700" height="600">
+   <img src="[https://github.com/shamimaaktar1/ADDMQSA/files/15135633/Research.Process.pdf](https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/bc868529-2ec2-43c0-9a41-362010e9aa7c)" alt="Research Process"  width="700" height="600">
 </p>
 
 
@@ -84,7 +84,7 @@ The research method is described below and represented in the picture below:
 <br>
 
 <p align="center">
-   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/5b35f386-a32b-422f-911c-03b773a12a6d" alt="Research Process"  width="500" height="600">
+   <img src="https://github.com/shamimaaktar1/ADDMQSA/assets/75358854/bc868529-2ec2-43c0-9a41-362010e9aa7c" alt="Research Process"  width="500" height="600">
 </p>
 
 
